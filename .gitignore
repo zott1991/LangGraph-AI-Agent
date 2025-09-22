@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment binaries and site-packages (keep your app code in venv/*.py)
+venv/Lib/
+venv/Scripts/
+venv/Include/
+venv/pyvenv.cfg
+venv/**/__pycache__/
+
+# Environment & secrets
+.env
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/

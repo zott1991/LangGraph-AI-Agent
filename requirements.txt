@@ -1,0 +1,6 @@
+python-dotenv==1.1.1
+langgraph==0.6.7
+langchain==0.3.27
+pydantic==2.11.9
+typing_extensions==4.15.0
+requests==2.32.5
